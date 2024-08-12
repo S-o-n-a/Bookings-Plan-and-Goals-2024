@@ -5,16 +5,23 @@ The primary objective of our project was to significantly increase booking plans
 Our focus was on five essential products:
 
  • P1: Fertilization, Seeding, and Weed Plan
+ 
  • P2: Lawn Mowing and Maintenance Plan
+ 
  • P3: Mosquito Control Plan
+ 
  • P4: Tick Control Plan
+ 
  • P5: Tree and Shrub Service Plan
 
 We also explored four creative marketing strategies:
 
  • C1: Direct Mail
+ 
  • C2: Door-to-Door Promotion
+ 
  • C3: Facebook/Instagram Paid Ads
+ 
  • C4: Google Ads
 
 After analysing the data, we concluded that the most effective combination for increasing bookings was P2 - C2, which involves the Lawn Mowing and Maintenance Plan promoted through door-to-door outreach. This strategy yielded the highest conversion rate of 1.3%.
